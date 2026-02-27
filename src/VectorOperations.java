@@ -17,7 +17,7 @@ public class VectorOperations {
                 case 1:
                     String nameToAdd=scanner.next();
                     students.add(nameToAdd);
-                    System.out.println("added");
+                    System.out.println("Added");
 
                     
                     break;
@@ -35,7 +35,7 @@ public class VectorOperations {
                 case 3:
                     String nameToRemove=scanner.next();
                     students.remove(nameToRemove);
-                    System.out.println("removed");
+                    System.out.println("Removed");
 
                     
                     break;
